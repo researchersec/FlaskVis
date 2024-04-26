@@ -1,3 +1,4 @@
+```
 /your-flask-app
     /app
         __init__.py
@@ -9,3 +10,4 @@
         js/
         css/
     run.py
+```

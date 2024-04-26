@@ -1,1 +1,11 @@
-# FlaskVis
+/your-flask-app
+    /app
+        __init__.py
+        routes.py
+        utility.py
+    /templates
+        index.html
+    /static
+        js/
+        css/
+    run.py
